@@ -1,0 +1,14 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(185deg, #00a1e1 25%, #fcb713 50%, #c159e7 25%);
+
+}
+

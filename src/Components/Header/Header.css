@@ -1,0 +1,24 @@
+.navbar {
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 22px;
+  display: flex;
+}
+.navbar > h1 {
+  font-size: 42px;
+  color: black;
+}
+
+.navbar_links {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.navbar_links > a {
+  display: flex;
+  color: blue;
+  align-items: center;
+  text-decoration: underline;
+  font-weight: 600;
+}
