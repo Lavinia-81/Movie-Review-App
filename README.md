@@ -47,8 +47,8 @@ Coming soon... but trust me, it’s gonna look fabulous.
 🙌 Author
 Made with care and curiosity by Maria aka Lavinia-81
 
-🎞️ "Watching movies is fun — but building your own movie app? That’s cinematic coding."
-🎞️ "Coding is like directing a movie — but instead of cameras, we use curly braces.
+### 🎞️ "Watching movies is fun — but building your own movie app? That’s cinematic coding."
+### 🎞️ "Coding is like directing a movie — but instead of cameras, we use curly braces.
 ---
 
 
