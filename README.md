@@ -14,23 +14,23 @@ A responsive and dynamic React application that fetches real-time movie data fro
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/Lavinia-81/Movie-Review-App.git
-cd Movie-Review-App
+bash
+`git clone https://github.com/Lavinia-81/Movie-Review-App.git`
+`cd Movie-Review-App`
 
 
 ### 2. Install dependencies
-npm install
+`npm install`
 
 
 ### 3. Configure the API key
 Create a `.env` file in the root directory and add:
-REACT_APP_TMDB_API_KEY=your_api_key_here
+`REACT_APP_TMDB_API_KEY=your_api_key_here`
 |You can grab your API key from TMDB Developer
 
 
 ### 4. Start the development server
-```npm start```
+`npm start`
 Then open http://localhost:3000 in your browser.
 
 
